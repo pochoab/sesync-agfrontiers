@@ -21,9 +21,6 @@ AGRICULTURAL FRONTIERS AND CONSERVATION PRIORITIES
 
 ### Header 3
 
-- Bulleted
-- List
-
 1. Web interactive tool
 2. Esri historical Maps
 3. Publications
